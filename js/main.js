@@ -33,3 +33,19 @@ jQuery(function($) {
 	});
 	
 });
+// Dynamic hero typing effect
+jQuery(function($){
+    var el = document.getElementById('heroTypingText');
+    if(!el) return;
+    var phrases = ['enterprise software','scalable .NET solutions','cloud-ready platforms','AI & automation solutions','data-driven applications'];
+    var index=0, char=0, deleting=false;
+    function type(){
+        var phrase=phrases[index];
+        el.textContent=deleting ? phrase.substring(0,char--) : phrase.substring(0,char++);
+        var delay=deleting ? 42 : 76;
+        if(!deleting && char>phrase.length){deleting=true;delay=1500;}
+        else if(deleting && char<0){deleting=false;index=(index+1)%phrases.length;char=0;delay=350;}
+        setTimeout(type,delay);
+    }
+    type();
+});
