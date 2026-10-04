@@ -1,6 +1,4 @@
 /*--
-	Author: W3Layouts
-	Author URL: http://w3layouts.com
 	License: Creative Commons Attribution 3.0 Unported
 	License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
@@ -97,8 +95,6 @@ a:focus, a:hover {
 
 .camera_caption h3 {
 	font-weight: 100;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	font-size: 50px;
 }
 
@@ -147,8 +143,6 @@ section.cd-section {
 	visibility: hidden;
 	-webkit-transition: opacity 0.3s 0.6s, visibility 0s 0.9s;
 	-moz-transition: opacity 0.3s 0.6s, visibility 0s 0.9s;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	transition: opacity 0.3s 0.6s, visibility 0s 0.9s;
 }
 
@@ -187,8 +181,6 @@ section.cd-section {
 	-ms-transform: scale(1);
 	-o-transform: scale(1);
 	transform: scale(1);
-	/*--w3layouts--*/
-	/*--agileits--*/
 	-webkit-transition: -webkit-transform 0.3s 0s, visibility 0.3s 0s;
 	-moz-transition: -moz-transform 0.3s 0s, visibility 0.3s 0s;
 	transition: transform 0.3s 0s, visibility 0.3s 0s;
@@ -221,8 +213,6 @@ section.cd-section {
 	-ms-transform: translateZ(0);
 	-o-transform: translateZ(0);
 	transform: translateZ(0);
-	/*--w3layouts--*/
-	/*--agileits--*/
 	-webkit-transform: translateY(100vh);
 	-moz-transform: translateY(100vh);
 	-ms-transform: translateY(100vh);
@@ -262,8 +252,6 @@ section.cd-section {
 	-webkit-animation-delay: 0.1s;
 	-moz-animation-delay: 0.1s;
 	animation-delay: 0.1s;
-	/*--w3layouts--*/
-	/*--agileits--*/
 }
 
 .fade-in .cd-bouncy-nav li:nth-of-type(3), .fade-out .cd-bouncy-nav li:nth-of-type(3) {
@@ -307,8 +295,6 @@ section.cd-section {
 	top: 0;
 	left: 50%;
 	right: auto;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	-webkit-transform: translateX(-50%);
 	-moz-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
@@ -363,8 +349,6 @@ section.cd-section {
 	}
 	.cd-bouncy-nav li {
 		width: 33.33%;
-		/*--w3layouts--*/
-		/*--agileits--*/
 		float: left;
 	}
 	.fade-in .cd-bouncy-nav li:nth-of-type(1), .fade-out .cd-bouncy-nav li:nth-of-type(1) {
@@ -420,8 +404,6 @@ section.cd-section {
 	0% {
 		-webkit-transform: translateY(100vh);
 		-moz-transform: translateY(100vh);
-		/*--w3layouts--*/
-		/*--agileits--*/
 		-ms-transform: translateY(100vh);
 		-o-transform: translateY(100vh);
 		transform: translateY(100vh);
@@ -485,8 +467,6 @@ section.cd-section {
 
 .agileaboutaitsabout {
 	padding: 100px 0;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	background-color: #333;
 }
 
@@ -526,8 +506,6 @@ section.cd-section {
 	padding: 10px 30px;
 	background-color: #777;
 	color: #FFF;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	border-radius: 30px;
 	font-weight: 600;
 	border: none;
@@ -596,8 +574,6 @@ section.cd-section {
 	top: 0;
 	left: 0;
 	padding: 40px 0;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	color: #EEE;
 	text-align: center;
 }
@@ -630,8 +606,6 @@ section.cd-section {
 	-webkit-transform: translateY(-50px);
 	-moz-transform: translateY(-50px);
 	-ms-transform: translateY(-50px);
-	/*--w3layouts--*/
-	/*--agileits--*/
 	transform: translateY(-50px);
 }
 
@@ -684,8 +658,6 @@ section.cd-section {
 	background-attachment: fixed;
 	background-position: center;
 	background-size: cover;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -725,8 +697,6 @@ section.cd-section {
 		padding-right: 12px;
 		background-color: #009688;
 		font-size: 12px;
-		/*--w3layouts--*/
-		/*--agileits--*/
 		font-weight: 600;
 	}
 
@@ -811,8 +781,6 @@ section.cd-section {
 		margin: 0 auto;
 		padding: 0;
 		max-width: 1200px;
-		/*--w3layouts--*/
-		/*--agileits--*/
 		list-style: none;
 		-ms-box-orient: horizontal;
 		-ms-box-pack: center;
@@ -889,8 +857,6 @@ section.cd-section {
 			padding: 0.75em 0;
 			color: rgba(40,44,42,0.05);
 			font-weight: 900;
-			/*--w3layouts--*/
-			/*--agileits--*/
 			font-size: 4em;
 			line-height: 1;
 		}
@@ -936,8 +902,6 @@ section.cd-section {
 		.tabs-style-bar nav ul li a span {
 			font-family: 'Montserrat', sans-serif;
 			letter-spacing: 1px;
-			/*--w3layouts--*/
-			/*--agileits--*/
 			font-size: 15px;
 		}
 
@@ -980,8 +944,6 @@ section.cd-section {
 		.gallery-grids figure figcaption {
 			padding: 2em;
 			color: #fff;
-			/*--w3layouts--*/
-			/*--agileits--*/
 			-webkit-backface-visibility: hidden;
 			-moz-backface-visibility: hidden;
 			-o-backface-visibility: hidden;
@@ -1047,8 +1009,6 @@ section.cd-section {
 			-o-transition: -o-transform 0.35s;
 			-ms-transition: -ms-transform 0.35s;
 			transition: transform 0.35s;
-			/*--w3layouts--*/
-			/*--agileits--*/
 			-webkit-transform: translate3d(0,-20px,0);
 			-moz-transform: translate3d(0,-20px,0);
 			-o-transform: translate3d(0,-20px,0);
@@ -1099,18 +1059,18 @@ section.cd-section {
 
 /*-- Booking --*/
 
-.w3layoutsbooking {
+.sitebrandbooking {
 	padding: 100px 0;
 	background-color: #EEE;
 }
 
-.w3layoutsbooking h3 {
+.sitebrandbooking h3 {
 	text-align: left;
 	margin-bottom: 30px;
 	font-size: 40px;
 }
 
-.w3layoutsbooking .container {
+.sitebrandbooking .container {
 	padding: 0;
 }
 
@@ -1125,8 +1085,6 @@ section.cd-section {
 	padding: 15px 0;
 	margin-bottom: 20px;
 	border: none;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	color: #000;
 	border-bottom: 2px solid #777;
 	font-weight: 600;
@@ -1178,7 +1136,7 @@ input.margin-right {
 	color: #555;
 }
 
-.send-button.agileits.w3layouts {
+.send-button.agileits.sitebrand {
 	text-align: center;
 }
 
@@ -1214,8 +1172,6 @@ input.margin-right {
 .footer h5 {
 	width: 65%;
 	margin: 0 auto;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	line-height: 30px;
 	color: #CCC;
 	font-family: 'Open Sans', sans-serif;
@@ -1279,8 +1235,6 @@ address {
 	outline: none;
 	padding: 8px 21px;
 	float: right;
-	/*--w3layouts--*/
-	/*--agileits--*/
 	font-weight: 600;
 	font-size: 13px;
 }
@@ -1457,7 +1411,7 @@ a.to-top {
 	.camera_caption h3 {
 		font-size: 40px;
 	}
-	.agileaboutaitsabout, .w3threespecialityw3ls, .progressive-effects, .portfolio, .w3layoutsbooking {
+	.agileaboutaitsabout, .w3threespecialityw3ls, .progressive-effects, .portfolio, .sitebrandbooking {
 		padding: 75px 0;
 	}
 	.agileaboutaits h1 {
@@ -1480,7 +1434,7 @@ a.to-top {
 	.numscroller {
 		margin-bottom: 5px;
 	}
-	.portfolio h3, .w3layoutsbooking h3 {
+	.portfolio h3, .sitebrandbooking h3 {
 		margin-left: 15px;
 	}
 	.gallery-top figure.effect-bubba h4 {
@@ -1615,10 +1569,10 @@ a.to-top {
 	.camera_caption h3 {
 		font-size: 35px;
 	}
-	.agileaboutaitsabout, .w3threespecialityw3ls, .progressive-effects, .portfolio, .w3layoutsbooking {
+	.agileaboutaitsabout, .w3threespecialityw3ls, .progressive-effects, .portfolio, .sitebrandbooking {
 		padding: 50px 0;
 	}
-	.agileaboutaits h1, .w3threespecialityw3ls h2, #skills h3, .portfolio h3, .w3layoutsbooking h3 {
+	.agileaboutaits h1, .w3threespecialityw3ls h2, #skills h3, .portfolio h3, .sitebrandbooking h3 {
 		font-size: 35px;
 	}
 	.agileaboutaits-info {
@@ -1792,10 +1746,10 @@ a.to-top {
 	.agileheaderw3ls {
 		padding-bottom: 276px;
 	}
-	.agileaboutaitsabout, .w3threespecialityw3ls, .progressive-effects, .portfolio, .w3layoutsbooking {
+	.agileaboutaitsabout, .w3threespecialityw3ls, .progressive-effects, .portfolio, .sitebrandbooking {
 		padding: 35px 0;
 	}
-	.agileaboutaits h1, .w3threespecialityw3ls h2, #skills h3, .portfolio h3, .w3layoutsbooking h3, .footer h3 {
+	.agileaboutaits h1, .w3threespecialityw3ls h2, #skills h3, .portfolio h3, .sitebrandbooking h3, .footer h3 {
 		font-size: 30px;
 	}
 	.agileaboutaits button.btn {
@@ -1902,7 +1856,7 @@ a.to-top {
 	.agileheaderw3ls {
 		padding-bottom: 200px;
 	}
-	.agileaboutaits h1, .w3threespecialityw3ls h2, #skills h3, .portfolio h3, .w3layoutsbooking h3, .footer h3 {
+	.agileaboutaits h1, .w3threespecialityw3ls h2, #skills h3, .portfolio h3, .sitebrandbooking h3, .footer h3 {
 		font-size: 25px;
 	}
 	.w3threespecialityw3ls-grid {
@@ -2000,7 +1954,7 @@ a.to-top {
 	.cd-bouncy-nav a {
 		padding: 70px 0 0;
 	}
-	.agileaboutaits h1, .w3threespecialityw3ls h2, #skills h3, .portfolio h3, .w3layoutsbooking h3, .footer h3 {
+	.agileaboutaits h1, .w3threespecialityw3ls h2, #skills h3, .portfolio h3, .sitebrandbooking h3, .footer h3 {
 		font-size: 23px;
 	}
 	figure.effect-bubba figcaption::before, figure.effect-bubba figcaption::after {
